@@ -11,3 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=devendra-dantal04&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devendra-dantal04&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-dantal04&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![An image of @devendradantal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devendradantal)](https://holopin.io/@devendradantal)
